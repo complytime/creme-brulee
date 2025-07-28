@@ -22,7 +22,8 @@ _Learn to use ComplyTime organization projects and tools._
 
 > Required before attempting the ComplyTime module of the skills discovery
 
-- Review the OSCAL recordings [Why are we here? Intro to OSCAL: for Compliance Managers]() and [Intro to OSCAL Tooling](). The slides can be referenced [here](https://docs.google.com/presentation/d/13LDE-AL3xvWf1trSn_NE1OyjTP1KwVaq3HIbypgvtuU/edit?usp=sharing)
+- Review the OSCAL recordings [Why are we here? Intro to OSCAL: for Compliance Managers](https://drive.google.com/file/d/1cGZxjptHl2UKS83nhgYvWXyFdnRtw2uf/view?usp=sharing) and [Intro to OSCAL Tooling](). The slides can be referenced [here](https://docs.google.com/presentation/d/13LDE-AL3xvWf1trSn_NE1OyjTP1KwVaq3HIbypgvtuU/edit?usp=sharing)
+- Review of the OSCAL recordings should take around an hour (30 mins/recording). 
 
 ##### Required GitHub curated skills courses to complete prior to the ComplyTime module 
 
