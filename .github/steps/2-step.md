@@ -12,7 +12,7 @@ Follow the [help guide](https://github.com/complytime/creme-brulee/blob/main/doc
 
 ## **Getting Started**
 
-Follow the steps in the [manual_steps.md](https://github.com/hbraswelrh/creme-brulee/blob/main/steps/manual_steps.md) for an in-depth walkthrough and example of editing content in the `markdown/` folder.
+Follow the steps in the [**manual_steps.md**](https://github.com/hbraswelrh/creme-brulee/blob/main/steps/manual_steps.md) for an in-depth walkthrough and example of editing content in the `markdown/` folder.
 
 1. **Create a New Branch**: In your copy of the learning course, create a new branch named `learn-complytime/step-2`. 
 2. **Switch Branches**: Switch to the `learn-complytime/step-2` branch. This is where you'll start working with Git and Markdown.  
