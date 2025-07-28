@@ -1,6 +1,6 @@
 # ComplyCtl Codebase Overview
 
-**ComplyCtl** (also known as ComplyTime) is a comprehensive compliance automation tool that leverages the **OSCAL (Open Security Controls Assessment Language)** standard to perform compliance assessment activities. It uses a plugin-based architecture to support different compliance scanning tools and frameworks.
+**ComplyCtl** is a comprehensive compliance automation tool that leverages the **OSCAL (Open Security Controls Assessment Language)** standard to perform compliance assessment activities. It uses a plugin-based architecture to support different compliance scanning tools and frameworks.
 
 ## 🏗️ Architecture Overview
 
