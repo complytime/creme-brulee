@@ -58,7 +58,7 @@ Simply copy the exercise to your account, then give your favorite Octocat :octoc
 <summary>Having trouble? 🤷</summary><br/>
 
 
-- Review the [manual_steps.md](https://github.com/hbraswelrh/creme-brulee/blob/e2574a94f9ac3f85a35d29749d326969d0faafbe/steps/manual_steps.md) and reach out in the Slack channel [#learn-complytime](https://redhat.enterprise.slack.com/archives/C093B45QGQM)
+- Review the [manual_steps.md](https://github.com/complytime/creme-brulee/blob/main/steps/manual_steps.md#-reading-creme-brulee-course-documentation) and reach out in the Slack channel [#learn-complytime](https://redhat.enterprise.slack.com/archives/C093B45QGQM)
 If the exercise isn't ready in 20 seconds, please check the [Actions](../../actions) tab.
 
 - An issue should be opened that looks like this:
