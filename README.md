@@ -45,7 +45,7 @@ _Learn to use ComplyTime organization projects and tools._
 In this exercise, you will:
 1. Learn about the relevant repositories in the ComplyTime organization.
 2. Practice using Git, Markdown, and ComplyTime tools for getting comfortable with the workflow.
-3. More info [here](https://github.com/complytime/creme-brulee/blob/e2574a94f9ac3f85a35d29749d326969d0faafbe/steps/manual_steps.md)
+3. More info [here](https://github.com/hbraswelrh/creme-brulee/blob/main/steps/manual_steps.md)
 4. Provide feedback on the [ComplyTime Skills Discovery](https://docs.google.com/forms/d/e/1FAIpQLSc3v53F7glwUIFzg8rSXdEgLAONC856yiL0eJYT2kedmm7wKQ/viewform?usp=header). 
 
 ### How to start this exercise
