@@ -15,7 +15,7 @@ Ensure you've reviewed these foundational resources for your success in the cour
 | complyctl repository           | [`docs/complyctl.md`](https://github.com/hbraswelrh/creme-brulee/blob/main/docs/complyctl.md)                                                                                                                     |
 | Policy as Code                 | [`docs/POLICY-AS-CODE.md`](https://github.com/hbraswelrh/creme-brulee/blob/main/docs/POLICY-AS-CODE.md) , [`docs/policy-as-code.md`](https://github.com/hbraswelrh/creme-brulee/blob/main/docs/policy-as-code.md) |
 | CNCF                           | [`docs/CNCF.md`](https://github.com/hbraswelrh/creme-brulee/blob/main/docs/CNCF.md)                                                                                                                               |
-| Compliance Trestle             | [`TRESTLE-OVERVIEW.md`](https://github.com/hbraswelrh/creme-brulee/blob/main/docs/TRESTLE-OVERVIEW.md)                                                                                                            |
+| Compliance Trestle             | [`docs/TRESTLE-OVERVIEW.md`](https://github.com/hbraswelrh/creme-brulee/blob/main/docs/TRESTLE-OVERVIEW.md)                                                                                                            |
 
 
 Document your notes in a GitHub issue like [this](https://docs.github.com/en/issues/tracking-your-work-with-issues/configuring-issues/quickstart). Duplicate the tab in your browser to take notes. Ensure you select "Learning course issue template" when opening your issue.
