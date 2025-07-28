@@ -47,7 +47,6 @@ _Example Issue -> [HERE](https://github.com/hbraswelrh/creme-brulee/issues/7)_
 _Add or delete resources while taking notes_
 
 - The [manual_steps.md](https://github.com/hbraswelrh/creme-brulee/blob/main/steps/manual_steps.md) has the content of **Step 1:** Read the docs and **Step 2:** Practice Communicating using Git and Markdown.
-- The [course_layout.md](https://github.com/hbraswelrh/creme-brulee/blob/main/steps/course_layout.md) has the in-depth examples for step-by-step directions to complete Step 1 & Step 2. 
 
 
 > ⭐ This issue should be attached to your [self-assessment](https://docs.google.com/forms/d/e/1FAIpQLScIXyhvuLdCcKqBewFGggM7I38W7JJ-phbBUIdhJCw0Puz_cg/viewform?usp=header)
