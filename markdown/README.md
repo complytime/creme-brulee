@@ -20,6 +20,5 @@ _All content of the markdown folder has been initialized by [complyscribe](https
 
 `complyscribe` initialized the OSCAL Component Definition Markdown files in the `component-definitions/` folder. 
 
-## Connecting to `complyscribe` and `ComplianceAsCode/content`
 
 
