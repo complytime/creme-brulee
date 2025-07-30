@@ -10,6 +10,8 @@ _Learn to use ComplyTime organization projects and tools._
 - **What you'll learn**: In this course, you'll learn about the ComplyTime organization tools, update OSCAL Content from the GitHub UI using Git flow and markdown, and how to leverage those tools for Compliance Management workflows.
 - **What you'll build**: You'll open a GitHub Issue for note-taking, open a pull request for proposed changes in the `markdown/` folder, interact with the ComplyTime organization codebases, and understand how ComplyTime tools assist in managing your Compliance Documentation through Agile Authoring and automated workflows.
 
+> ⭐ **Disclaimer:** The OSCAL recordings and self-assessments will only be accessible to Red Hat Associates in an effort to collect responses.  
+
 ### Prerequisites
 
 #### GitHub 
