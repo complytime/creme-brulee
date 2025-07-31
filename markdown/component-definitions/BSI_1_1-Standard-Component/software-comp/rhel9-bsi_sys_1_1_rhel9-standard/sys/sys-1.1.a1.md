@@ -27,6 +27,8 @@ ______________________________________________________________________
 
 <!-- Add control implementation description here for control: sys-1.1.a1 -->
 
+Example adding control implementation description for sys-1.1-a1
+
 ### Rules:
 
   - rule-sys-1.1.a1
