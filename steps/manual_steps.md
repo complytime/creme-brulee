@@ -1,7 +1,6 @@
 # ComplyTime Manual Steps Guide
 
-
-  - [📚 Step 1: Reading `creme-brulee` Course Documentation](#-reading-creme-brulee-course-documentation)
+  - [📚 Step 1: Reading `creme-brulee` Course Documentation](#-step-1-reading-creme-brulee-course-documentation)
       - [✅ Review Materials for Course Completion](#-mandatory-review-materials-for-course-completion)
   - [📓 Taking Notes Using GitHub Issues](#-taking-notes-using-github-issues)
       - [🧭 Navigation Steps](#-navigation-steps)
@@ -55,7 +54,8 @@ Document your notes in a GitHub issue like [this](https://docs.github.com/en/iss
 
 > 🎯 **Why this matters:** Taking notes in an issue will help with comfortability using Git and practicing with Markdown. 
 
-As you go through the documentation, it's highly recommended that you take detailed notes. You'll be required to open a GitHub issue for **Step 2:** Deep dive into oscal-content. Your personal workspace, created by the automated workflows, allows you to use GitHub Issues for taking notes. An example issue can be reviewed [here](https://github.com/hbraswelrh/creme-brulee/issues/7). 
+As you go through the documentation, it's highly recommended that you take detailed notes. You'll be required to open a GitHub issue for **Step 2:** Deep dive into oscal-content. Your personal workspace, created by the automated workflows, allows you to use GitHub Issues for taking notes. An example issue can be reviewed [here](https://github.com/complytime/creme-brulee/issues/7). 
+
 
 Refer to [this example](https://docs.github.com/en/issues/tracking-your-work-with-issues/configuring-issues/quickstart) for additional guidance on how to create an issue.
 
@@ -92,6 +92,7 @@ Update the content and the `{REPLACE_ME}` areas with your Key Concepts. Click "C
 
 ---
 
+
 ### ➡️ **Next Steps - Trigger Step 2**
 
 > 🎯 **Action Required:** Once you have taken notes and completed the self-assessment for Step 1: Read the docs, copy the link of your issue and paste it in the comments of your Exercise: Read the docs issue.
@@ -114,6 +115,8 @@ After around 20 seconds, the same GitHub Issue titled **Exercise: Read the docs*
 #### Step 2 content
 
 ![step2body.png](images/step2body.png)
+
+
 ---
 
 
