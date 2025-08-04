@@ -29,7 +29,7 @@ _Learn to use ComplyTime organization projects and tools._
 
 ##### Required GitHub curated skills courses to complete prior to the ComplyTime module 
 
-> The required GitHub Skills courses will prepare you to interact with GitHub Issues, Pull Requests, and understand Git Flow. Completion of these exercises should take around 2 hours.
+> The required GitHub Skills courses will teach you how to work with GitHub Issues, Pull Requests, and understand Git Flow. This should take about two hours to complete.
 
   - Take the [Introduction to GitHub](https://github.com/skills/introduction-to-github) Skills course. 
   - Take the [Communicate using Markdown](https://github.com/skills/communicate-using-markdown) GitHub Skills course. 
@@ -38,21 +38,20 @@ _Learn to use ComplyTime organization projects and tools._
 
 ### :vertical_traffic_light: Start Here
 
-  - Review the [GLOSSARY.md](https://github.com/hbraswelrh/creme-brulee/blob/main/docs/GLOSSARY.md) for relevant terms that will be used throughout course content. 
-  - Refer to [GEMINI.md](https://github.com/complytime/creme-brulee/blob/main/docs/GEMINI.md) for prompts that could help with understanding the repository contents of [complyscribe](https://github.com/complytime/complyscribe/README.md), [complyctl](https://github.com/complytime/complyctl/README.md), and [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content/blob/master/README.md).  
-
+  - Review the [GLOSSARY.md](https://github.com/hbraswelrh/creme-brulee/blob/main/docs/GLOSSARY.md) for relevant terms that will be used throughout course content.
+  - The [GEMINI.md](https://github.com/complytime/creme-brulee/blob/main/docs/GEMINI.md) file is a suggested resource for understanding the repository contents of [complyscribe](https://github.com/complytime/complyscribe), [complyctl](https://github.com/complytime/complyctl), and [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content/tree/master), but its use is not required for course completion.
 
 
 > :hourglass: **How long?** This exercise is self-paced. The [manual_steps.md](https://github.com/complytime/creme-brulee/blob/main/steps/manual_steps.md#-reading-creme-brulee-course-documentation) can be leveraged to pace yourself, revisit subjects, and follow step-by-step examples. The automated ComplyTime Skills Discovery typically takes about **two hours** to finish. However, the actual time may vary depending on your **reading comprehension** and **level of interest**.
 
-In this exercise, you will:
+**In this exercise, you will:**
 1. Learn about the relevant repositories in the ComplyTime organization.
 2. Practice using Git, Markdown, and ComplyTime tools for getting comfortable with the workflow.
 3. Provide feedback on the [ComplyTime Skills Discovery](https://docs.google.com/forms/d/e/1FAIpQLSc3v53F7glwUIFzg8rSXdEgLAONC856yiL0eJYT2kedmm7wKQ/viewform?usp=header). 
 
 ### How to start this exercise
 
-Simply copy the exercise to your account, then give your favorite Octocat :octocat: **about 20 seconds** to prepare the first lesson, then **refresh the page**.
+Simply copy the exercise to your account, then give your favorite `creme-brulee` Octocat :octocat: **about 20 seconds** to prepare the first lesson, then **refresh the page**.
 
 
 [![](https://img.shields.io/badge/Start%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_name=creme-brulee&template_owner=hbraswelrh)
