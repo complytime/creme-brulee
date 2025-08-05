@@ -203,6 +203,8 @@ Clicking on Component Definitions there will be RHEL8, RHEL9, and RHEL10 content
 
 ![try](images/try.png)
 
+![alt text](images/extended.png)
+
 ### 📄 **Reference: RHEL10 ANSSI Control R1**
 
 > **Reference:** Example Markdown for RHEL10 ANSSI Control R1: Hardware Support.
