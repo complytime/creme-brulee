@@ -19,4 +19,5 @@ Your learning doesn't have to stop here! Here are a few ways to continue buildin
 
 - **Review Your Notes:** Take another look at your personal copy of the creme-brulee ComplyTime learning course. You can find the issue that was automatically created when you started the exercise under the "Closed" tab in the "Issues" section.
 - **Practice Makes Perfect:** Feel free to redo this exercise as many times as you like! Since this is a public repository template, you have unlimited opportunities to practice and solidify your understanding.
+- **Complete the Feedback Form:** The form should be completed for feedback on the evolving ComplyTime Skills Discovery. The Feedback Form can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSc3v53F7glwUIFzg8rSXdEgLAONC856yiL0eJYT2kedmm7wKQ/viewform?usp=header).
 - **Ask questions:** The Slack channel for the learning course will be [#learn-complytime](https://redhat.enterprise.slack.com/archives/C093B45QGQM)
