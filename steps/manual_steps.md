@@ -214,9 +214,9 @@ Navigate to the `markdown` folder. There should be several folders `catalogs`, `
 
 Clicking on Component Definitions there will be RHEL8, RHEL9, and RHEL10 content initialized by `complyscribe`. The folders are organized by `Example-POLICY-level/compdef-title/profile`. This example uses content for the RHEL10 ANSSI Enhanced Example Component Definition.
 
-![try](images/try.png)
 
 ![alt text](images/extended.png)
+
 
 ### 📄 **Reference: RHEL10 ANSSI Control R1**
 
