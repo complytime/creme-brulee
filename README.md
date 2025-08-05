@@ -38,7 +38,7 @@ _Learn to use ComplyTime organization projects and tools._
 
 ### :vertical_traffic_light: Start Here
 
-  - Review the [GLOSSARY.md](https://github.com/hbraswelrh/creme-brulee/blob/main/docs/GLOSSARY.md) for relevant terms that will be used throughout course content.
+  - Review the [GLOSSARY.md](https://github.com/complytime/creme-brulee/blob/main/docs/GLOSSARY.md) for relevant terms that will be used throughout course content.
   - The [GEMINI.md](https://github.com/complytime/creme-brulee/blob/main/docs/GEMINI.md) file is a suggested resource for understanding the repository contents of [complyscribe](https://github.com/complytime/complyscribe), [complyctl](https://github.com/complytime/complyctl), and [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content/tree/master), but its use is not required for course completion.
 
 
