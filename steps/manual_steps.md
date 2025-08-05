@@ -125,10 +125,6 @@ Update the content and the `{REPLACE_ME}` areas with your Key Concepts. Click "C
 
 After around 20 seconds, the same GitHub Issue titled **Exercise: Read the docs** will populate Step 2: Practice Communicating using Markdown and Git. 
 
-#### Step 2 content
-
-![step2body.png](images/step2body.png)
-
 
 ---
 
