@@ -1,13 +1,14 @@
 # ComplyTime Manual Steps Guide
 
-  - [📚 Step 1: Reading `creme-brulee` Course Documentation](#-step-1-reading-creme-brulee-course-documentation)
+  - [✅ **What You'll Submit**](#what-youll-submit)
+  - [📚 **Step 1:** Reading `creme-brulee` Course Documentation](#-step-1-reading-creme-brulee-course-documentation)
       - [✅ Review Materials for Course Completion](#-mandatory-review-materials-for-course-completion)
   - [📓 Taking Notes Using GitHub Issues](#-taking-notes-using-github-issues)
       - [🧭 Navigation Steps](#-navigation-steps)
       - [🔧 Update the Template Content](#-update-the-template-content)
       - [📝 Take the Self-Assessment](#-take-the-self-assessment)
       - [➡️ Next Steps - Trigger Step 2](#-next-steps---trigger-step-2)
-  - [🚀 Step 2: Practice Communicating using Markdown and Git](#-step-2-practice-communicating-using-markdown-and-git)
+  - [🚀 **Step 2:** Practice Communicating using Markdown and Git](#-step-2-practice-communicating-using-markdown-and-git)
       - [What you'll need](#what-youll-need)
       - [Getting Started](#getting-started)
       - [🌳 Branching Workflow](#-branching-workflow)
@@ -15,7 +16,6 @@
       - [🔄 Git Workflow](#-git-workflow)
       - [📝 Providing Context Through Markdown](#-providing-context-through-markdown)
       - [✅ Checking Your Work](#-checking-your-work)
-      - [What You'll Submit](https://www.google.com/search?q=%23what-youll-submit)
       - [RHEL10 ANSSI Enhanced Component Definition Example](https://www.google.com/search?q=%23rhel10-anssi-enhanced-component-definition-example)
 
 # ComplyTime GitHub Skills Discovery Manual Steps
@@ -26,6 +26,19 @@ Welcome to the ComplyTime learning course\! This guide will help you navigate th
 
 Good luck with your ComplyTime learning journey\!
 
+---
+
+## What You'll Submit
+
+The [self-assessment](https://docs.google.com/forms/d/e/1FAIpQLScIXyhvuLdCcKqBewFGggM7I38W7JJ-phbBUIdhJCw0Puz_cg/viewform?usp=header) will require submission of the link to your Pull Request opened for changes to OSCAL Component Definitions. 
+
+Edit a minimum of **three** Component Definitions. Separate each edit by commit. The Pull Request will include all commits published on the `learn-complytime/step-2` branch. When clicking the pencil to edit Markdown files, the hidden instructions will appear.
+
+Copy the link to the exercise issue from [**Step 1:** _Read the docs_](https://github.com/hbraswelrh/creme-brulee/blob/main/.github/steps/1-step.md). The link will be attached to your Pull Request opened during Step 2.  
+
+Follow the [help guide](https://github.com/hbraswelrh/creme-brulee/blob/main/docs/issue-help.md) for creating issues.
+
+---
 
 ## **📚 Step 1: Reading `creme-brulee` Course Documentation**
 
@@ -312,15 +325,6 @@ Once you have opened the PR your GitHub Issue for the course will **close**. Swi
 
 ---
 
-## What You'll Submit
-
-The [self-assessment](https://docs.google.com/forms/d/e/1FAIpQLScIXyhvuLdCcKqBewFGggM7I38W7JJ-phbBUIdhJCw0Puz_cg/viewform?usp=header) will require submission of the link to your Pull Request opened for changes to OSCAL Component Definitions. 
-
-Edit a minimum of **three** Component Definitions. Separate each edit by commit. The Pull Request will include all commits published on the `learn-complytime/step-2` branch. When clicking the pencil to edit Markdown files, the hidden instructions will appear.
-
-Copy the link to the exercise issue from [**Step 1:** _Read the docs_](https://github.com/hbraswelrh/creme-brulee/blob/main/.github/steps/1-step.md). The link will be attached to your Pull Request opened during Step 2.  
-
-Follow the [help guide](https://github.com/hbraswelrh/creme-brulee/blob/main/docs/issue-help.md) for creating issues.
 
 ## RHEL10 ANSSI Enhanced Component Definition Example
 
